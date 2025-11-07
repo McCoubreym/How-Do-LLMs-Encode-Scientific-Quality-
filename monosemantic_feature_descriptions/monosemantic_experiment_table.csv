@@ -1,0 +1,66 @@
+﻿Task,LLM & SAE combination,Index,Depth in decision tree,Samples at split,Feature positively predicts research quality,Description
+1,1,74,0,13234,0,Scientific language with a lack of readability and highly complex use of words.
+1,1,15676,1,9901,1,Scientific language with a lack of readability and highly complex use of words.
+1,1,6631,2,8289,0,Has an ambiguous definition. Likely linked to the length of the text.
+1,1,2297,3,3768,1,"Names, particularly about technologies but can include people and institutions."
+1,1,12691,3,4521,1,Terms and phrases used in physics.
+1,2,6135,0,12892,1,"Names of popular technologies e.g. big data, cloud computing, internet of thing, Hadoop etc."
+1,2,979,1,8859,1,Academic survey and reviews.
+1,2,15531,2,8021,0,Has an ambiguous definition. Potentially about academic style of language.
+1,2,13161,3,1477,1,Tools related to inventions and innovations.
+1,2,61,3,6544,0,Has an ambiguous definition. Potentially about academic style of language.
+1,3,12640,0,13232,1,"Names, particularly about technologies but can include people and institutions."
+1,3,6355,1,10154,0,Research studies.
+1,3,2356,2,4983,1,Academic survey and reviews.
+1,3,6427,2,5171,0,Has an ambiguous definition. Potentially related to the methods used.
+1,3,3156,3,4255,1,"Names, particularly about technologies."
+2,1,7402,0,13913,1,Reference to digital transmission codes.
+2,1,16116,1,6947,1,Refers to feature (particularly feature detection) used in machine learning.
+2,1,8411,1,6966,1,"Has an ambiguous definition. References to mobile phones, wireless networks and sensors."
+2,1,12691,2,6260,1,Academic style language.
+2,1,9954,2,6497,1,Vehicle specifications.
+2,1,4897,3,3158,0,Has an ambiguous definition. Terms related to biological and physical activities.
+2,1,12679,3,6316,1,Has an ambiguous definition. The use of punctuation and formatting within sentences.
+2,1,26,4,1303,1,"References to leadership, management, organisations."
+2,1,15324,4,2810,1,"Standards for mobile communication e.g. GSM, LTE, LTE Advanced."
+2,1,10026,4,5013,1,Reference to computational complexity theory.
+2,1,4785,5,1085,1,Referring to a scientific research publication.
+2,1,12938,6,1484,1,"Refers to electrical components and systems, particularly about the electric grid."
+2,2,16326,0,13563,1,Physics and engineering terms and concepts.
+2,2,1582,1,3139,1,Wireless communication technologies.
+2,2,599,1,10424,1,Computer vision.
+2,2,14018,2,2131,1,Terms related to ML feature extraction methods.
+2,2,15358,2,8293,0,References to academic publications and presenting academic work
+2,2,4062,3,985,0,Words commonly within code and software development.
+2,2,15378,3,4329,0,Clinical trial and randomised control trials.
+2,2,7671,5,3094,1,Training CNN for computer vision and computer vision training features.
+2,2,1063,6,2330,1,Refers to correlations in data.
+2,2,674,7,2067,1,Has an ambiguous definition.
+2,3,10403,0,13909,1,Terms associated with data transmission particularly signal modulation.
+2,3,12285,1,6831,1,"Image based machine learning e.g. denoising, reconstruction, decomposition, super-resolution."
+2,3,9816,1,7078,1,"Standards for mobile communication e.g. GSM, LTE, LTE Advanced."
+2,3,1715,2,1012,1,Has an ambiguous definition. Related to algorithms and methods for data processing and analysis.
+2,3,15246,2,4522,1,Machine learning techniques.
+2,3,15265,2,5819,1,Words with the prefix ’it’ . Mostly referring to information technology e.g. IT governance.
+2,3,5001,3,2104,1,Electricity grid technologies and mangement.
+2,3,1436,3,2418,1,"Camera and image tasks, particularly camera calibration."
+2,3,13675,3,5562,0,Phrases related to copyright and licensing information.
+2,3,15237,4,4628,1,"References to leadership, management, organisations."
+2,3,15301,6,3685,1,Statistical terminology.
+3,1,9890,0,13572,0,Educational methodology and technology.
+3,1,6278,1,10581,1,Acknowledging contributions and support from others in research.
+3,1,1881,2,9485,0,Software development language particularly about software architectures.
+3,1,15324,3,1775,1,"Standards for mobile communication e.g. GSM, LTE, LTE Advanced."
+3,1,12691,3,7710,1,Complex academic language.
+3,1,6465,4,5505,1,Fuzzy logic/sets/values.
+3,2,1392,0,13571,0,Qualitative research methodologies.
+3,2,1618,1,2935,1,Data analysis techniques.
+3,2,3864,1,10636,0,Complex academic language.
+3,2,5788,2,2368,1,Technical terms and concepts related to telecommunications and networking.
+3,2,3919,2,8268,1,Contact information and author-related details.
+3,2,15358,3,7169,0,Common academic expressions.
+3,3,8721,0,13568,0,"Discussion, exploring, or providing an overview/summary. Linked to literature reviews."
+3,3,10557,1,5987,1,Telecommunication technologies.
+3,3,15809,1,7581,0,Computing architectures and algorithms.
+3,3,6980,2,4816,1,Requests for or references to contact information.
+3,3,2543,2,6293,0,Pedagogic interventions.
