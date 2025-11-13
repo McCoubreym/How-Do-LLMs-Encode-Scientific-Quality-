@@ -1,10 +1,10 @@
 ﻿Task,LLM & SAE combination,Index,Depth in decision tree,Samples at split,Feature positively predicts research quality,Description
-1,1,74,0,13234,0,Scientific language with a lack of readability and highly complex use of words.
-1,1,15676,1,9901,1,Scientific language with a lack of readability and highly complex use of words.
+1,1,74,0,13234,0,Overfocus on methodological details.
+1,1,15676,1,9901,1,Academic survey and reviews.
 1,1,6631,2,8289,0,Has an ambiguous definition. Likely linked to the length of the text.
 1,1,2297,3,3768,1,"Names, particularly about technologies but can include people and institutions."
 1,1,12691,3,4521,1,Terms and phrases used in physics.
-1,2,6135,0,12892,1,"Names of popular technologies e.g. big data, cloud computing, internet of thing, Hadoop etc."
+1,2,6135,0,12892,1,"Names of popular technologies e.g. big data, cloud computing, internet of things, Hadoop etc."
 1,2,979,1,8859,1,Academic survey and reviews.
 1,2,15531,2,8021,0,Has an ambiguous definition. Potentially about academic style of language.
 1,2,13161,3,1477,1,Tools related to inventions and innovations.
@@ -32,7 +32,7 @@
 2,2,14018,2,2131,1,Terms related to ML feature extraction methods.
 2,2,15358,2,8293,0,References to academic publications and presenting academic work
 2,2,4062,3,985,0,Words commonly within code and software development.
-2,2,15378,3,4329,0,Clinical trial and randomised control trials.
+2,2,15378,3,4329,0,Clinical trial and randomised controlled trials.
 2,2,7671,5,3094,1,Training CNN for computer vision and computer vision training features.
 2,2,1063,6,2330,1,Refers to correlations in data.
 2,2,674,7,2067,1,Has an ambiguous definition.
@@ -42,7 +42,7 @@
 2,3,1715,2,1012,1,Has an ambiguous definition. Related to algorithms and methods for data processing and analysis.
 2,3,15246,2,4522,1,Machine learning techniques.
 2,3,15265,2,5819,1,Words with the prefix ’it’ . Mostly referring to information technology e.g. IT governance.
-2,3,5001,3,2104,1,Electricity grid technologies and mangement.
+2,3,5001,3,2104,1,Electricity grid technologies and management.
 2,3,1436,3,2418,1,"Camera and image tasks, particularly camera calibration."
 2,3,13675,3,5562,0,Phrases related to copyright and licensing information.
 2,3,15237,4,4628,1,"References to leadership, management, organisations."
